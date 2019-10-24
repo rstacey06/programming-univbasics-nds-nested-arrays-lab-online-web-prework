@@ -22,7 +22,14 @@ def assembled_matrix
   "Pat M.",
   "Kate Gompert",
   "Bruce Green"]
-  # and the Enfield Tennis Academy as provided by the constants
+  
+  enfield_tennis_academy = [
+  "Hal Incandenza",
+  "Lyle",
+  "Gerhard Schtitt",
+  "Mario Incandenza",
+  "Michael Pemulis"
+]
 end
 
 def array_literal_matrix
