@@ -17,7 +17,11 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  ennet_house = []
+  ennet_house = ["Don Gately",
+  "Joelle van Dyne",
+  "Pat M.",
+  "Kate Gompert",
+  "Bruce Green"]
   # and the Enfield Tennis Academy as provided by the constants
 end
 
